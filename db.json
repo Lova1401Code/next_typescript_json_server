@@ -1,0 +1,29 @@
+{
+  "post": [
+    {
+      "title": "Second post modifié",
+      "content": "this is the second post",
+      "id": "f3fa"
+    },
+    {
+      "id": "bbd6",
+      "title": "new post",
+      "content": "new content post\n"
+    },
+    {
+      "title": "post typescript modifié",
+      "content": "content typescript",
+      "id": "8aed"
+    },
+    {
+      "id": "c238",
+      "title": "Bomboclat",
+      "content": "Bomboclat"
+    },
+    {
+      "title": "kaiz",
+      "content": "kaiz zay",
+      "id": "96f7"
+    }
+  ]
+}
